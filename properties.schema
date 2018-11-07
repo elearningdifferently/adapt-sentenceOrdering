@@ -213,7 +213,7 @@
                   "type":"array",
                   "required":true,
                   "title":"sentence actual position",
-                  "position":{
+                  "items":{
                      "type":"number",
                      "required":true,
                      "default":1,
